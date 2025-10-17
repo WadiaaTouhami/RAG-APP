@@ -1,0 +1,49 @@
+{
+	"info": {
+		"_postman_id": "c27897b9-cfdc-4d25-80f1-d6d97172e466",
+		"name": "RAG-APP",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "49297854",
+		"_collection_link": "https://wadiahtouhemi-4520091.postman.co/workspace/Wadiaa-Touhami's-Workspace~61756635-a364-4697-86bd-1ff947218a54/collection/49297854-c27897b9-cfdc-4d25-80f1-d6d97172e466?action=share&source=collection_link&creator=49297854"
+	},
+	"item": [
+		{
+			"name": "welcome-request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "api",
+			"value": ""
+		}
+	]
+}
